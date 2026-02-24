@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Data
+data/
+
+# Jupyter
+.ipynb_checkpoints/venv/
+data/
+.ipynb_checkpoints/
+
+.history/
