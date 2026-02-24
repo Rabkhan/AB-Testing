@@ -130,11 +130,3 @@ There is no statistical evidence that the variant increases conversion.
 - seaborn
 - statsmodels
 
----
-
-## Next Steps (Optional Extensions)
-
-- Power analysis for required sample size
-- Revenue mean comparison using log transformation
-- Regression with clustered standard errors
-- Bayesian A/B testing approach
