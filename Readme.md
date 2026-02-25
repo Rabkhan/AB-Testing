@@ -109,15 +109,6 @@ There is no statistical evidence that the variant increases conversion.
 - Independence assumption was validated before testing.
 - Metric choice was driven by distribution analysis.
 
----
-
-## Lessons Learned
-
-- Always validate experimental structure before running tests.
-- Check for user contamination across variants.
-- Define the experimental unit clearly.
-- Understand your metric distribution before choosing a statistical test.
-- Statistical significance depends on number of events, not just number of users.
 
 ---
 
